@@ -4,6 +4,9 @@
 # 예제 1
 
 
+![image](https://user-images.githubusercontent.com/73538957/114068427-de9b2700-98d8-11eb-9fca-c9b626f58fea.png)
+
+
 
 ## 테이블로 나타내기
 
